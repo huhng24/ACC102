@@ -49,7 +49,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-DATA_DIR = "data"
+DATA_DIR = ""
 
 ASSETS = ["SPY", "GLD", "CNY", "DXY", "DGS10"]
 ASSET_LABELS = {
