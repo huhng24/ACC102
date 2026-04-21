@@ -52,13 +52,13 @@ Date range: **2015-01-01 to 2024-12-31**
 
 ### Option 1: View the live app (recommended)
 
-👉 **[Open Rate Shock Explorer on Streamlit Cloud](<your-streamlit-url-here>)**
+👉 **[Open Rate Shock Explorer on Streamlit Cloud]([https://ezakzrxxmwndyrxinghthe.streamlit.app])**
 
 ### Option 2: Run locally
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/rate-shock-explorer.git
+git clone https://github.com/huhng24/rate-shock-explorer.git
 cd rate-shock-explorer
 ```
 
